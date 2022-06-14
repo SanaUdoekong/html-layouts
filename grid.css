@@ -15,9 +15,9 @@ main {
   margin-top: 8%;
   display: grid;
   grid-template-areas: 
-    'a a b'
-    'c d d'
-    'c e e'
+    'a a a b b'
+    'c c d d d'
+    'c c e e e'
     ;
 }
 
