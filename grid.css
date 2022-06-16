@@ -61,7 +61,7 @@ main div {
 .item-b {
     background-color: orange;
     grid-area: b;
-    height: 120px;
+    height: 100px;
 }
 .item-c {
     background-color: green;
